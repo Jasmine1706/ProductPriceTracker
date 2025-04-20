@@ -33,7 +33,6 @@ check_frequency: "0 15 20 * * ?" – a cron expression indicating the alert chec
 created_on / updated_on: Timestamps indicating the alert’s creation and last modification time.
 This confirms the successful operation of the alert creation API and the proper persistence of alert preferences into the database.**
 
-
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/ea99c009-28a2-4f02-a6c6-eda974267bfb" />
 
 **This screenshot displays a successful price drop alert email sent by the Price Drop Alert System to the user (jasminejose17@gmail.com). The alert notifies the user that the product "formal-shirt", previously being monitored, has dropped to a new price of ₹500.00, which is below the user’s set alert price of ₹749.00.**
