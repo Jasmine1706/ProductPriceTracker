@@ -63,7 +63,7 @@ public class AlertService {
         }
 
         try {
-            log.info("Fetching list of products available from product_prices.json");
+            log.info("Fetching list of products prices  available from product_prices.json");
             mapOfProducts = productService.loadProductsFromFile();
         } catch (Exception exception) {
             exception.getMessage();
