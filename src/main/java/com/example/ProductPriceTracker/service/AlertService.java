@@ -59,7 +59,7 @@ public class AlertService {
             }
         } catch (Exception exception) {
             exception.getMessage();
-            log.error("Error while fetching Alert List from Database");
+            log.error("Error while fetching Alert List from Local Database");
         }
 
         try {
