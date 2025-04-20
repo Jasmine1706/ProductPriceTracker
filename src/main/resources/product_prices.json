@@ -1,0 +1,42 @@
+[
+  {
+    "productUrl": "http://test.com/tshirt",
+    "currentPrice": 150.00
+  },
+  {
+    "productUrl": "http://test.com/jeans",
+    "currentPrice": 250.00
+  },
+  {
+    "productUrl": "http://test.com/hoodie",
+    "currentPrice": 1299.00
+  },
+  {
+    "productUrl": "http://test.com/jacket",
+    "currentPrice": 1999.00
+  },
+  {
+    "productUrl": "http://test.com/formal-shirt",
+    "currentPrice": 500.00
+  },
+  {
+    "productUrl": "http://test.com/sweater",
+    "currentPrice": 999.00
+  },
+  {
+    "productUrl": "http://test.com/shorts",
+    "currentPrice": 499.00
+  },
+  {
+    "productUrl": "http://test.com/trackpants",
+    "currentPrice": 899.00
+  },
+  {
+    "productUrl": "http://test.com/kurta",
+    "currentPrice": 599.00
+  },
+  {
+    "productUrl": "http://test.com/blazer",
+    "currentPrice": 2499.00
+  }
+]
